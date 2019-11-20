@@ -1,13 +1,13 @@
-#Border Crossing Analysis
+# Border Crossing Analysis
 
 
-##Table of Contents
+## Table of Contents
 
 1.[About this Project](#About-this-Project)
 2.[Getting Started](#Getting-Started])
 3.[Test](#test)
 
-##About this Project   
+## About this Project   
 
 The purpose of this project was to obtain and analyze the data of U.S. border crossings from a CSV.  
 
