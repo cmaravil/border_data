@@ -4,7 +4,7 @@ import csv
 import os
 from datetime import datetime
 from dateutil.parser import parse
-
+from decimal import Decimal, ROUND_UP
 
 def main(input_file, output_file):
     results = []
@@ -25,13 +25,14 @@ def main(input_file, output_file):
 
     for key in sums.keys():
         [border, month, measure] = key.split(",")
-        denominator = int(month) - 1
+        denominator = int(month) -1
         if denominator == 0:
             avg[key] = 0
         else:
-            avg[key] = round(sum([sums["{},{},{}".format(border, month, measure)]
-                                  for m in range(1, int(month))]) / denominator)
+            avg[key] = Decimal(sum([sums.get("{},{},{}".format(border, m, measure),0)
+                                  for m in range(1, int(month))]) / denominator).quantize(0, ROUND_UP)
 
+                                  
     with open(output_file, mode='w') as results_csv:
         results_csv.writelines("Border,Date,Measure,Value,Average\n")
         for key in sums.keys():
