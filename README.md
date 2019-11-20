@@ -3,9 +3,12 @@
 
 ## Table of Contents
 
-1. [About this Project](#About-this-Project)
-1. [Getting Started](#Getting-Started])
-1. [Test](#test)
+- [Border Crossing Analysis](#border-crossing-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [About this Project](#about-this-project)
+  - [Getting Started](#getting-started)
+    - [Download](#download)
+  - [test](#test)
 
 ## About this Project   
 
@@ -51,7 +54,7 @@ Detail was focused on the following fields:
 
 
 
-##test 
+## test 
 We obtained a test from Insight's Github repo.
 
 
