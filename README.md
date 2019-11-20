@@ -1,4 +1,3 @@
-
 #Border Crossing Analysis
 
 
@@ -31,12 +30,16 @@ The projects instructions were obtiined via Insight's Github repo:
 The data to create and test this project was obtained from The Bureau of Transportation Statistics.  
 <a href="https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2">Border Crossing Data</a>
 
+The file was saved in the input folder of my repo as: <i>Border_Crossing_Entry_Data.csv</i>  
+
+
 ###Download
 The languaged used to create this program was Python 3
 <a href="https://www.python.org/downloads/release/python-374/">Download Python</a>
 
 Per Insightdata's instructions regarding this project, no external libraries where used.
-   ***Due to this there are limitations***
+   ***Due to this there are limitations*** *
+
 
 Detail was focused on the following fields:
 * <mark style="color:red">Border</mark>: Designates what border was crossed
@@ -46,23 +49,12 @@ Detail was focused on the following fields:
 
 
 
-  
-
-
-
-
-
-
-
-
-
-
 
 
 ##test 
-test folder is there
+We obtained a test from Insight's Github repo.
 
 
 
 
-
+*<font size="2">Since Pandas and Numpy used, the program is slower and not optimal</font>.  
