@@ -22,7 +22,7 @@ The data was grouped by border, month and type of entry (Pedestrian, Truck, etc.
 
 
 
-##Getting Started
+## Getting Started
 
 The projects instructions were obtiined via Insight's Github repo:
 <a href="https://github.com/InsightDataScience/border-crossing-analysis">Insigths Border Crossing Analysis Repo</a>
@@ -33,7 +33,7 @@ The data to create and test this project was obtained from The Bureau of Transpo
 The file was saved in the input folder of my repo as: <i>Border_Crossing_Entry_Data.csv</i>  
 
 
-###Download
+### Download
 The languaged used to create this program was Python 3
 <a href="https://www.python.org/downloads/release/python-374/">Download Python</a>
 
