@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-1.[About this Project](#About-this-Project)
-2.[Getting Started](#Getting-Started])
-3.[Test](#test)
+1. [About this Project](#About-this-Project)
+1. [Getting Started](#Getting-Started])
+1. [Test](#test)
 
 ## About this Project   
 
