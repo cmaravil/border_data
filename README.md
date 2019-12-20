@@ -60,4 +60,4 @@ We obtained a test from Insight's Github repo.
 
 
 
-*<font size="2">Since Pandas and Numpy used, the program is slower and not optimal</font>.  
+*<font size="2"> Pandas and Numpy were not used since external libraries were not allowed as part of the guielines, this means the program is slower and not optimal</font>.  
