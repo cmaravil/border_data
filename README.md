@@ -27,7 +27,7 @@ The data was grouped by border, month and type of entry (Pedestrian, Truck, etc.
 
 ## Getting Started
 
-The projects instructions were obtiined via Insight's Github repo:
+The projects instructions were obtained via Insight's Github repo:
 <a href="https://github.com/InsightDataScience/border-crossing-analysis">Insigths Border Crossing Analysis Repo</a>
 
 The data to create and test this project was obtained from The Bureau of Transportation Statistics.  
